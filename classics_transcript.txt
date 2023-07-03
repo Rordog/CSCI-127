@@ -1,0 +1,85 @@
+1. Identify the longest book by word count.
+2. List a range of books by difficulty rating.
+3. Identify all books by certain author.
+4. Something interesting... Search!
+5. Quit.
+
+Enter your choice: 1
+
+The longest book is Webster`s Unabridged Dictionary
+
+1. Identify the longest book by word count.
+2. List a range of books by difficulty rating.
+3. Identify all books by certain author.
+4. Something interesting... Search!
+5. Quit.
+
+Enter your choice: 2
+
+Enter least difficult out of 1000 (e.g. 250): 100
+Enter most difficult out of 1000 (e.g. 300): 110
+Using the Flesch–Kincaid grade level formula.
+
+100 - The Business; As Usual - Grade Level: 4.8
+101 - The Duchess of Malfi - Grade Level: 4.8
+102 - The Game of Logic - Grade Level: 4.8
+103 - The Imaginary Invalid - Grade Level: 4.8
+104 - The Importance of Being Earnest: A Trivial Comedy for Serious People - Grade Level: 4.8
+105 - The Invisible Man: A Grotesque Romance - Grade Level: 4.8
+106 - The Jew of Malta - Grade Level: 4.8
+107 - The Man with Two Left Feet; and Other Stories - Grade Level: 4.8
+108 - The Monkey`s Paw: The Lady of the Barge and Others; Part 2. - Grade Level: 4.8
+109 - The Picture of Dorian Gray - Grade Level: 4.8
+110 - The Red Badge of Courage: An Episode of the American Civil War - Grade Level: 4.8
+
+1. Identify the longest book by word count.
+2. List a range of books by difficulty rating.
+3. Identify all books by certain author.
+4. Something interesting... Search!
+5. Quit.
+
+Enter your choice: 3
+
+Enter last name of author (e.g. Dickens): Shaw
+Pygmalion by  Bernard Shaw
+Mrs. Warren`s Profession by  Bernard Shaw
+Nine Thousand Miles On A Pullman Train: An Account of a Tour of Railroad Conductors From; Philadelphia to the Pacific Coast an Return by  Milton Shaw
+Arms and the Man by  Bernard Shaw
+Major Barbara by  Bernard Shaw
+Man and Superman: A Comedy and a Philosophy by  Bernard Shaw
+
+1. Identify the longest book by word count.
+2. List a range of books by difficulty rating.
+3. Identify all books by certain author.
+4. Something interesting... Search!
+5. Quit.
+
+Enter your choice: 4
+
+Enter search string (e.g. huckleberry): science
+**  How to Analyze People on Sight: Through the Science of Human Analysis: The Five Human Types
+  Author: Benedict; Ralph Paine 0 - 0
+  Download: https://www.gutenberg.org/ebooks/30601
+**  The Practice and Science of Drawing
+  Author: Speed; Harold 1873 - 0
+  Download: https://www.gutenberg.org/ebooks/14264
+**  Discourse on the Method of Rightly Conducting One`s Reason and of Seeking Truth in the Sciences
+  Author: Descartes; Rene 1596 - 1650
+  Download: https://www.gutenberg.org/ebooks/59
+**  The Outline of Science; Vol. 1 (of 4): A Plain Story Simply Told
+  Author: Thomson; J. Arthur (John Arthur) 1861 - 1933
+  Download: https://www.gutenberg.org/ebooks/20417
+**  Astounding Stories of Super-Science January 1930
+  Author: Unknown 0 - 0
+  Download: https://www.gutenberg.org/ebooks/41481
+
+1. Identify the longest book by word count.
+2. List a range of books by difficulty rating.
+3. Identify all books by certain author.
+4. Something interesting... Search!
+5. Quit.
+
+Enter your choice: 5
+
+Goodbye!
+>>> 
